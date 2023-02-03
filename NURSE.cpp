@@ -6,7 +6,6 @@ int N, K1, K2;
 void input() {
 	cin >> N >> K1 >> K2;
 }
-
 void solve() {
 	int S0[MAX];
 	int S1[MAX];
